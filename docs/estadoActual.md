@@ -17,6 +17,8 @@ Estos avances son documentales locales. No equivalen a una entrega académica, a
 
 ## Material previo disponible / en elaboración
 
+El [borrador del informe de Parte 1](../informe/parte1.md) está disponible para revisión del equipo. Conserva los campos pendientes y requiere evidencia y revisión humana antes de la entrega.
+
 | Elemento | Estado comprobado | Próximo paso |
 |---|---|---|
 | Fase 0 | Presentación inicial existente (F03), con alcance contradictorio. | Resolver DEC-01/02. |

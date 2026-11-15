@@ -12,6 +12,9 @@
 !/docs/estadoActual.md
 !/docs/fuentes.md
 !/docs/colaboracion.md
+!/informe/
+/informe/*
+!/informe/parte1.md
 !/.agent/
 /.agent/*
 !/.agent/rules/
